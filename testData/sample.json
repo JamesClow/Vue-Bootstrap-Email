@@ -1,0 +1,10 @@
+{
+  "data": {
+    "driver": "Damon",
+    "time": "September 21, 2017 at 6:54 PM",
+    "cost": "$11.87",
+    "ride_info": "Lyft fare (2.62mi, 13m 10s)",
+    "payment_type": "Apple Pay (MasterCard)"
+  },
+  "template": "purchase_receipt"
+}
